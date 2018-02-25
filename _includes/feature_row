@@ -38,8 +38,6 @@
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
-
-          <br>
         </div>
       </div>
     </div>
