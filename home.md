@@ -12,14 +12,14 @@ feature_row:
     url: "https://vita.cfw.guide/"
   - alt: "Switch Guide"
     title: "Switch Guide"
-    excerpt: "A complete Nintendo Switch Homebrew Guide."
+    excerpt: "A complete Nintendo Switch homebrew guide."
     image_path: /assets/images/switch.jpg
     url: "https://switch.cfw.guide/"
-  - alt: "Discord Server"
-    title: "Discord Server"
-    excerpt: "Ask for help regarding the guides on this site."
-    image_path: /assets/images/discord.jpg
-    url: "/discord"
+  - alt: "DSi Guide"
+    title: "DSi Guide"
+    excerpt: "A complete Nintendo DSi homebrew guide."
+    image_path: /assets/images/dsi.png
+    url: "https://dsi.cfw.guide/"
 ---
 
 {% include feature_row %}
