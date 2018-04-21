@@ -23,3 +23,9 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+Please help keep the site running via [PayPal](/donate).
+{: .notice--info}
+
+While these guides should be safe, you and you alone are responsible for any damages to your console while following these guides.
+{: .notice--info}
