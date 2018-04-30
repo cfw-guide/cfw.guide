@@ -17,7 +17,7 @@ feature_row:
     url: "https://switch.cfw.guide/"
   - alt: "DSi Guide"
     title: "DSi Guide"
-    excerpt: "A complete Nintendo DSi homebrew guide."
+    excerpt: "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
     image_path: /assets/images/dsi.png
     url: "https://dsi.cfw.guide/"
 ---
