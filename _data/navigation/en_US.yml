@@ -1,0 +1,11 @@
+---
+main:
+  -
+    title: CFW Guide
+    url: /
+  -
+    title: Donations
+    url: donations
+footer:
+  -
+    title: Source
