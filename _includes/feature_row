@@ -16,23 +16,24 @@
 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
+        {% if f.author %}
+          <div class="archive__item-author">{{ f.author }}</div>
+        {% endif %}
         {% if f.image_path %}
           <div class="archive__item-teaser">
-		    <a href="{{ f_url }}">
-			  <img src=
-				{% if f.image_path contains "://" %}
-				  "{{ f.image_path }}"
-				{% else %}
-				  "{{ f.image_path | absolute_url }}"
-				{% endif %}
-			  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-			</a>
+            <a href="{{ f_url }}"><img src=
+              {% if f.image_path contains "://" %}
+                "{{ f.image_path }}"
+              {% else %}
+                "{{ f.image_path | absolute_url }}"
+              {% endif %}
+            alt="{% if f.alt %}{{ f.alt }}{% endif %}"></a>
           </div>
         {% endif %}
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2 class="archive__item-title"><a href="{{ f_url }}" style="text-decoration: none !important;">{{ f.title }}</a></h2>
+            <h2 class="archive__item-title"><a href="{{ f_url }}" style="text-decoration: none;">{{ f.title }}</a></h2>
           {% endif %}
 
           {% if f.excerpt %}
@@ -41,6 +42,7 @@
             </div>
           {% endif %}
         </div>
+        <hr>
       </div>
     </div>
   {% endfor %}

@@ -22,7 +22,6 @@
   padding-bottom: 0.5em;
   font-size: $type-size-5;
   color: $muted-text-color;
-  border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
@@ -60,7 +59,7 @@
 	color: #eaeaea !important;
 	text-decoration: none;
   }
-  a:hover { 
+  a:hover {
 	text-decoration: underline !important;
   }
 
@@ -190,7 +189,24 @@
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
-  border-bottom: 1px solid $border-color;
+}
+
+.archive__item-author {
+  font-weight: bold;
+  font-size: 0.6rem;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+  color: #bbb;
+  letter-spacing: 2px;
+
+  a {
+    color: #bbb !important;
+    text-decoration: none !important;
+  }
+
+  a:hover {
+    text-decoration: underline !important;
+  }
 }
 
 .feature__item {

@@ -10,31 +10,37 @@ feature_row:
     excerpt: "A complete PS Vita hacking guide, from stock to Ensō."
     image_path: /assets/images/vita.jpg
     url: "https://vita.cfw.guide/"
+    author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a> and <a href="https://github.com/emiyl" target="_blank">emiyl</a>'
   - alt: "DSi Guide"
     title: "DSi Guide"
     excerpt: "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
     image_path: /assets/images/dsi.png
     url: "https://dsi.cfw.guide/"
+    author: '<a href="https://github.com/jerbear64" target="_blank">jerbear64</a> and <a href="https://github.com/emiyl" target="_blank">emiyl</a>'
   - alt: "Switch Guide"
     title: "Switch Guide"
-    excerpt: 'A complete guide to Switch homebrew and homebrew development by <a href="https://github.com/Plailect/" target="_blank">Plailect</a>.'
+    excerpt: 'A complete guide to Switch homebrew and homebrew development.'
     image_path: /assets/images/switch.jpg
     url: "https://switch.hacks.guide/"
+    author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a>'
   - alt: "3DS Guide"
     title: "3DS Guide"
-    excerpt: 'A complete guide to 3DS custom firmware, from stock to boot9strap by <a href="https://github.com/Plailect/" target="_blank">Plailect</a>.'
+    excerpt: 'A complete guide to 3DS custom firmware, from stock to boot9strap.'
     image_path: /assets/images/3ds.jpg
     url: "https://3ds.hacks.guide/"
+    author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a>'
   - alt: "Wii U Guide"
     title: "Wii U Guide"
-    excerpt: 'A complete guide to Wii U CFW, from stock to Coldboot Haxchi by <a href="https://github.com/Plailect/" target="_blank">Plailect</a>.'
+    excerpt: 'A complete guide to Wii U CFW, from stock to Coldboot Haxchi.'
     image_path: /assets/images/wiiu.jpg
-    url: "https://3ds.hacks.guide/"
+    url: "https://wiiu.hacks.guide/"
+    author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a> and <a href="https://github.com/FlimFlam69" target="_blank">FlimFlam69</a>'
   - alt: "Discord Server"
     title: "CFW.Guide Discord"
     excerpt: "Ask for help regarding the guides on this site."
     image_path: /assets/images/discord.jpg
     url: "https://discord.gg/4BsnVJW"
+    author: "CFW.Guide"
 ---
 
 {% include feature_row %}
