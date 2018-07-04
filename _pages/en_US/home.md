@@ -9,7 +9,7 @@ feature_row:
     title: "Vita Guide"
     excerpt: "A complete PS Vita hacking guide, from stock to Ensō."
     image_path: /assets/images/vita.jpg
-    url: "https://vita.cfw.guide/"
+    url: "https://vita.hacks.guide/"
     author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a> and <a href="https://github.com/emiyl" target="_blank">emiyl</a>'
   - alt: "DSi Guide"
     title: "DSi Guide"
