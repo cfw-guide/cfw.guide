@@ -2,7 +2,7 @@
 layout: splash
 excerpt: "Hacking and Homebrew Guides"
 header:
-  overlay_color: "#1a1d24"
+  overlay_color: "#3E1C33"
 permalink: /
 feature_row:
   - alt: "Vita Guide"
