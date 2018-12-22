@@ -17,6 +17,12 @@ feature_row:
     image_path: /assets/images/dsi.png
     url: "https://dsi.cfw.guide/"
     author: '<a href="https://github.com/jerbear64" target="_blank">jerbear64</a> and <a href="https://github.com/emiyl" target="_blank">emiyl</a>'
+  - alt: "iOS Guide"
+    title: "iOS Guide"
+    excerpt: "Ask for help regarding the guides on this site."
+    image_path: /assets/images/ios.jpg
+    url: "A complete iOS jailbreaking guide, from stock to Cydia."
+    author: "CFW.Guide"
   - alt: "Switch Guide"
     title: "Switch Guide"
     excerpt: 'A complete guide to Switch homebrew and homebrew development.'
@@ -35,12 +41,6 @@ feature_row:
     image_path: /assets/images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a> and <a href="https://github.com/FlimFlam69" target="_blank">FlimFlam69</a>'
-  - alt: "Discord Server"
-    title: "CFW.Guide Discord"
-    excerpt: "Ask for help regarding the guides on this site."
-    image_path: /assets/images/discord.jpg
-    url: "https://discord.gg/4BsnVJW"
-    author: "CFW.Guide"
 ---
 
 {% include feature_row %}
