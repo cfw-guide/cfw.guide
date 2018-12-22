@@ -19,9 +19,9 @@ feature_row:
     author: '<a href="https://github.com/jerbear64" target="_blank">jerbear64</a> and <a href="https://github.com/emiyl" target="_blank">emiyl</a>'
   - alt: "iOS Guide"
     title: "iOS Guide"
-    excerpt: "Ask for help regarding the guides on this site."
+    excerpt: "A complete iOS jailbreaking guide, from stock to Cydia."
     image_path: /assets/images/ios.jpg
-    url: "A complete iOS jailbreaking guide, from stock to Cydia."
+    url: "https://discord.gg/4BsnVJW"
     author: "CFW.Guide"
   - alt: "Switch Guide"
     title: "Switch Guide"
