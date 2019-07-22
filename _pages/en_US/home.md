@@ -22,7 +22,7 @@ feature_row:
     excerpt: "A complete iOS jailbreaking guide, from stock to Cydia."
     image_path: /assets/images/ios.jpg
     url: "https://ios.cfw.guide/"
-    author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a> and <a href="https://github.com/nqcshady" target="_blank">Shady</a>'
+    author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
   - alt: "Switch Guide"
     title: "Switch Guide"
     excerpt: 'A complete guide to Switch homebrew and homebrew development.'
