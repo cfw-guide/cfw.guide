@@ -13,10 +13,10 @@ feature_row:
     author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a> and <a href="https://github.com/emiyl" target="_blank">emiyl</a>'
   - alt: "DSi Guide"
     title: "DSi Guide"
-    excerpt: "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
+    excerpt: "The complete guide to Nintendo DSi hacking, from stock to Unlaunch (with additional hiyaCFW and/or TWiLight Menu++ setups)."
     image_path: /assets/images/dsi.png
     url: "https://dsi.cfw.guide/"
-    author: '<a href="https://github.com/jerbear64" target="_blank">jerbear64</a> and <a href="https://github.com/emiyl" target="_blank">emiyl</a>'
+    author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a> and <a href="https://github.com/nightyoshi370" target="_blank">NightScript</a>'
   - alt: "iOS Guide"
     title: "iOS Guide"
     excerpt: "A complete iOS jailbreaking guide, from stock to Cydia."
@@ -35,6 +35,12 @@ feature_row:
     image_path: /assets/images/3ds.jpg
     url: "https://3ds.hacks.guide/"
     author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a>'
+  - alt: "Wii Guide"
+    title: "Wii Guide"
+    excerpt: 'A guide to get you started with modding your Wii.'
+    image_path: /assets/images/wii.jpg
+    url: "https://wii.guide/"
+    author: '<a href="https://rc24.xyz/" target="_blank">RiiConnect24</a>'
   - alt: "Wii U Guide"
     title: "Wii U Guide"
     excerpt: 'A complete guide to Wii U CFW, from stock to Coldboot Haxchi.'
@@ -45,8 +51,8 @@ feature_row:
 
 {% include feature_row %}
 
-If you appreciate this guide, we accept <a href="donations" style="text-decoration: none !important;">Donations</a>.
+If you appreciate this website, we accept <a href="donations" style="text-decoration: none !important;">Donations</a>.
 {: .notice--info}
 
-While these guides should be safe, you and you alone are responsible for any damages to your console while following these guides.
+While these guides should be safe, you are responsible for any damages to your console while following these guides.
 {: .notice--info}
