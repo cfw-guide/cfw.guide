@@ -21,7 +21,7 @@ feature_row:
     title: "Cemu Guide"
     excerpt: 'A complete guide to installing CEMU and optimizing performance.'
     image_path: /assets/images/reshade.png
-    url: "https://cemu.hacks.guide/"
+    url: "https://cemu.cfw.guide/"
     author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
   - alt: "iOS Guide"
     title: "iOS Guide"
