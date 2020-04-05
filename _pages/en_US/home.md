@@ -17,12 +17,6 @@ feature_row:
     image_path: /assets/images/dsi.png
     url: "https://dsi.cfw.guide/"
     author: '<a href="https://github.com/jerbear64" target="_blank">jerbear64</a> and <a href="https://github.com/emiyl" target="_blank">emiyl</a>'
-  - alt: "iOS Guide"
-    title: "iOS Guide"
-    excerpt: "A complete iOS jailbreaking guide, from stock to Cydia."
-    image_path: /assets/images/ios.jpg
-    url: "https://ios.cfw.guide/"
-    author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
   - alt: "3DS Guide"
     title: "3DS Guide"
     excerpt: 'A complete guide to 3DS custom firmware, from stock to boot9strap.'
@@ -38,6 +32,13 @@ feature_row:
 ---
 
 <!--
+- alt: "iOS Guide"
+title: "iOS Guide"
+excerpt: "A complete iOS jailbreaking guide, from stock to Cydia."
+image_path: /assets/images/ios.jpg
+url: "https://ios.cfw.guide/"
+author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
+
 - alt: "Cemu Guide"
 title: "Cemu Guide"
 excerpt: 'A complete guide to installing CEMU and optimizing performance.'
