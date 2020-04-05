@@ -17,12 +17,6 @@ feature_row:
     image_path: /assets/images/dsi.png
     url: "https://dsi.cfw.guide/"
     author: '<a href="https://github.com/jerbear64" target="_blank">jerbear64</a> and <a href="https://github.com/emiyl" target="_blank">emiyl</a>'
-  - alt: "Cemu Guide"
-    title: "Cemu Guide"
-    excerpt: 'A complete guide to installing CEMU and optimizing performance.'
-    image_path: /assets/images/reshade.png
-    url: "https://cemu.cfw.guide/"
-    author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
   - alt: "iOS Guide"
     title: "iOS Guide"
     excerpt: "A complete iOS jailbreaking guide, from stock to Cydia."
@@ -42,6 +36,15 @@ feature_row:
     url: "https://wiiu.hacks.guide/"
     author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a> and <a href="https://github.com/FlimFlam69" target="_blank">FlimFlam69</a>'
 ---
+
+<!--
+- alt: "Cemu Guide"
+title: "Cemu Guide"
+excerpt: 'A complete guide to installing CEMU and optimizing performance.'
+image_path: /assets/images/reshade.png
+url: "https://cemu.cfw.guide/"
+author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
+-->
 
 {% include feature_row %}
 
