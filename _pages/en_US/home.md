@@ -11,6 +11,12 @@ feature_row:
     image_path: /assets/images/vita.jpg
     url: "https://vita.hacks.guide/"
     author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a> and <a href="https://github.com/emiyl" target="_blank">emiyl</a>'
+    - alt: "Cemu Guide"
+    title: "Cemu Guide"
+    excerpt: 'A complete guide to installing CEMU and optimizing performance.'
+    image_path: /assets/images/reshade.png
+    url: "https://cemu.cfw.guide/"
+    author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
   - alt: "DSi Guide"
     title: "DSi Guide"
     excerpt: "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
@@ -37,13 +43,6 @@ title: "iOS Guide"
 excerpt: "A complete iOS jailbreaking guide, from stock to Cydia."
 image_path: /assets/images/ios.jpg
 url: "https://ios.cfw.guide/"
-author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
-
-- alt: "Cemu Guide"
-title: "Cemu Guide"
-excerpt: 'A complete guide to installing CEMU and optimizing performance.'
-image_path: /assets/images/reshade.png
-url: "https://cemu.cfw.guide/"
 author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
 -->
 
