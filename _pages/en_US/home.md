@@ -11,7 +11,7 @@ feature_row:
     image_path: /assets/images/vita.jpg
     url: "https://vita.hacks.guide/"
     author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a> and <a href="https://github.com/emiyl" target="_blank">emiyl</a>'
-    - alt: "Cemu Guide"
+  - alt: "Cemu Guide"
     title: "Cemu Guide"
     excerpt: 'A complete guide to installing CEMU and optimizing performance.'
     image_path: /assets/images/reshade.png
