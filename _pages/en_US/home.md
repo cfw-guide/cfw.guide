@@ -40,7 +40,7 @@ feature_row:
     excerpt: 'A complete guide to Wii U CFW, from stock to Coldboot Haxchi.'
     image_path: /assets/images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
-    author: '<a href="https://github.com/Elpunical" target="_blank">Elpunical</a>'
+    author: '<a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>'
 ---
 
 {% include feature_row %}
