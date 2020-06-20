@@ -17,6 +17,12 @@ feature_row:
     image_path: /assets/images/reshade.png
     url: "https://cemu.cfw.guide/"
     author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
+  - alt: "iOS Guide"
+    title: "iOS Guide"
+    excerpt: "A complete iOS jailbreaking guide, from stock to Cydia."
+    image_path: /assets/images/ios.jpg
+    url: "https://ios.cfw.guide/"
+    author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a> & Team'
   - alt: "DSi Guide"
     title: "DSi Guide"
     excerpt: "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
@@ -34,17 +40,8 @@ feature_row:
     excerpt: 'A complete guide to Wii U CFW, from stock to Coldboot Haxchi.'
     image_path: /assets/images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
-    author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a> and <a href="https://github.com/FlimFlam69" target="_blank">FlimFlam69</a>'
+    author: '<a href="https://github.com/Elpunical" target="_blank">Elpunical</a>'
 ---
-
-<!--
-- alt: "iOS Guide"
-title: "iOS Guide"
-excerpt: "A complete iOS jailbreaking guide, from stock to Cydia."
-image_path: /assets/images/ios.jpg
-url: "https://ios.cfw.guide/"
-author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
--->
 
 {% include feature_row %}
 
