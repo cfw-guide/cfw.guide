@@ -1,5 +1,7 @@
 #ads.txt https://cfw.guide
 
+google.com, pub-8267943526926430, DIRECT, f08c47fec0942fa0
+
 google.com, pub-4641608711979091, DIRECT, f08c47fec0942fa0
 
 appnexus.com, 8692, DIRECT, f5ab79cb980f11d1
