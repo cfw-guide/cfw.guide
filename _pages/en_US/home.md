@@ -22,7 +22,7 @@ feature_row:
     excerpt: "A complete iOS jailbreaking guide, from stock to Cydia."
     image_path: /assets/images/ios.jpg
     url: "https://ios.cfw.guide/"
-    author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a> & Team'
+    author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a> and <a href="https://ios.cfw.guide/credits" target="_blank">Team</a>'
   - alt: "DSi Guide"
     title: "DSi Guide"
     excerpt: "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
@@ -34,7 +34,7 @@ feature_row:
     excerpt: 'A complete guide to 3DS custom firmware, from stock to boot9strap.'
     image_path: /assets/images/3ds.jpg
     url: "https://3ds.hacks.guide/"
-    author: '<a href="https://github.com/Plailect" target="_blank">Plailect</a>'
+    author: '<a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>'
   - alt: "Wii U Guide"
     title: "Wii U Guide"
     excerpt: 'A complete guide to Wii U CFW, from stock to Coldboot Haxchi.'
