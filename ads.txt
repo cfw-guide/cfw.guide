@@ -262,3 +262,6 @@ sovrn.com, 260380, RESELLER, fafdf38b16bf6b2b
 openx.com, 538959099, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+yahoo.com, 57289, RESELLER, e1a5b5b6e3255540
+rubiconproject.com, 17820, DIRECT, 0bfd66d529a55807
