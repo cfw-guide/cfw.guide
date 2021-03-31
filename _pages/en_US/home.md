@@ -28,7 +28,7 @@ feature_row:
     excerpt: "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
     image_path: /assets/images/dsi.png
     url: "https://dsi.cfw.guide/"
-    author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a> and <a href="https://github.com/NightYoshi370" target="_blank">NightScript</a>'
+    author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a> and <a href="https://discord.gg/yD3spjv" target="_blank">DS(i) Mode Hacking</a>'
   - alt: "3DS Guide"
     title: "3DS Guide"
     excerpt: 'A complete guide to 3DS custom firmware, from stock to boot9strap.'
