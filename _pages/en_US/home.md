@@ -19,7 +19,7 @@ feature_row:
     author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
   - alt: "iOS Guide"
     title: "iOS Guide"
-    excerpt: "A complete iOS jailbreaking guide, from stock to Cydia."
+    excerpt: "A complete iOS jailbreaking guide, from stock to jailbroken."
     image_path: /assets/images/ios.jpg
     url: "https://ios.cfw.guide/"
     author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a> and <a href="https://ios.cfw.guide/credits" target="_blank">Team</a>'
