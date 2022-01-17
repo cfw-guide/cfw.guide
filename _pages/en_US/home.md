@@ -25,7 +25,7 @@ feature_row:
     author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a> and <a href="https://ios.cfw.guide/credits" target="_blank">Team</a>'
   - alt: "DSi Guide"
     title: "DSi Guide"
-    excerpt: "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
+    excerpt: "A complete Nintendo DSi homebrew guide"
     image_path: /assets/images/dsi.png
     url: "https://dsi.cfw.guide/"
     author: '<a href="https://github.com/emiyl" target="_blank">emiyl</a> and <a href="https://discord.gg/yD3spjv" target="_blank">DS(i) Mode Hacking</a>'
@@ -37,9 +37,15 @@ feature_row:
     author: '<a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>'
   - alt: "Wii U Guide"
     title: "Wii U Guide"
-    excerpt: 'A complete guide to Wii U CFW, from stock to Coldboot Haxchi.'
+    excerpt: 'A complete guide to Wii U CFW, from stock to Tiramisu.'
     image_path: /assets/images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
+    author: '<a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>'
+  - alt: "Switch Guide"
+    title: "Switch Guide"
+    excerpt: "A complete guide to Switch custom firmware, from stock to Atmosphere."
+    image_path: /assets/images/switch.png
+    url: "https://nh-server.github.io/switch-guide/"
     author: '<a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>'
 ---
 
