@@ -51,8 +51,12 @@ feature_row:
 
 {% include feature_row %}
 
+<div id="waldo-tag-8408"></div>
+
 If you appreciate this guide, we accept <a href="donations" style="text-decoration: none !important;">Donations</a>.
 {: .notice--info}
 
 While these guides should be safe, you and you alone are responsible for any damages to your console while following these guides.
 {: .notice--info}
+
+<div id="waldo-tag-8442"></div>
