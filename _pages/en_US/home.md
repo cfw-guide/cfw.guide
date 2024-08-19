@@ -37,7 +37,7 @@ feature_row:
     author: '<a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>'
   - alt: "Wii U Guide"
     title: "Wii U Guide"
-    excerpt: 'A complete guide to Wii U CFW, from stock to Tiramisu.'
+    excerpt: 'A complete guide to Wii U CFW, from stock to Aroma.'
     image_path: /assets/images/wiiu.jpg
     url: "https://wiiu.hacks.guide/"
     author: '<a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>'
