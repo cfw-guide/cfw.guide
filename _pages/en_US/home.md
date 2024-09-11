@@ -35,6 +35,12 @@ feature_row:
     image_path: /assets/images/3ds.jpg
     url: "https://3ds.hacks.guide/"
     author: '<a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>'
+  - alt: "Wii Guide"
+    title: "Wii Guide"
+    excerpt: 'A guide to get you started with modding your Wii.'
+    image_path: /assets/images/wii.jpg
+    url: "https://wii.guide/"
+    author: '<a href="https://rc24.xyz/" target="_blank">RiiConnect24</a>'
   - alt: "Wii U Guide"
     title: "Wii U Guide"
     excerpt: 'A complete guide to Wii U CFW, from stock to Aroma.'
